@@ -1,3 +1,7 @@
+SCREENSHOT
+<img width="386" height="269" alt="Screenshot 2026-09-30 150357" src="https://github.com/user-attachments/assets/4398fa35-ba77-4990-b624-0ca202727451" />
+
+
 # 🖱️ Cursor Moving Project
 
 A simple Python project that demonstrates cursor movement using Python. This project was created as a beginner-level programming project to understand how Python can interact with the computer mouse and control cursor movement.
